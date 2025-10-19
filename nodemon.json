@@ -1,0 +1,12 @@
+{
+  "watch": ["server.js"],
+  "ignore": [
+    "data/**",
+    "public/**",
+    ".cursor/**",
+    "node_modules/**",
+    "package-lock.json"
+  ]
+}
+
+
